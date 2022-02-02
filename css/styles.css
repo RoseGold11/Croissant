@@ -19,6 +19,9 @@ a:hover {
 p {
   padding: 20px;
   text-align: center;
+  width: 600px;
+  margin: 0 auto;
+  line-height: 2;
 }
 img {
   display: block;
@@ -31,4 +34,9 @@ img {
 }
 .visited-link {
   color: palevioletred;
+}
+.email-link {
+  color: palevioletred;
+  text-decoration: underline;
+  padding: 0;
 }
